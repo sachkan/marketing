@@ -1,0 +1,184 @@
+[31-May-2016 11:22:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method stdClass::MD5() in /home/travicom/public_html/goldcoins168/application/views/body/a/member.php on line 47
+[31-May-2016 14:53:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=' in /home/travicom/public_html/goldcoins168/application/views/body/d/dash_box.php on line 18
+[31-May-2016 15:08:37 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/travicom/public_html/goldcoins168/application/views/body/d/dash_box.php on line 12
+[31-May-2016 15:09:03 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/travicom/public_html/goldcoins168/application/views/body/d/dash_box.php on line 12
+[31-May-2016 15:09:11 Asia/Jakarta] PHP Fatal error:  Unsupported operand types in /home/travicom/public_html/goldcoins168/application/views/body/d/dash_box.php on line 12
+[31-May-2016 15:10:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/travicom/public_html/goldcoins168/application/views/body/d/dash_box.php on line 19
+[31-May-2016 15:56:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/travicom/public_html/goldcoins168/application/views/body/u/pairing.php on line 40
+[01-Jun-2016 01:24:24 Asia/Jakarta] PHP Fatal error:  Call to a member function model() on a non-object in /home/travicom/public_html/goldcoins168/application/controllers/Login.php on line 7
+[02-Jun-2016 01:02:30 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/travicom/public_html/goldcoins168/application/views/errors/html/error_general.php on line 61
+[02-Jun-2016 01:04:40 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/travicom/public_html/goldcoins168/application/views/errors/html/error_general.php on line 61
+[02-Jun-2016 01:06:04 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/travicom/public_html/goldcoins168/application/views/errors/html/error_general.php on line 2
+[02-Jun-2016 01:06:52 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/travicom/public_html/goldcoins168/application/views/errors/html/error_general.php on line 2
+[02-Jun-2016 01:07:41 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/travicom/public_html/goldcoins168/application/views/errors/html/error_general.php on line 2
+[02-Jun-2016 01:08:09 Asia/Jakarta] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/travicom/public_html/goldcoins168/application/views/errors/html/error_general.php on line 2
+[02-Jun-2016 18:56:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 18:56:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 18:56:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 18:56:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 18:56:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 18:59:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 18:59:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 19:01:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 19:02:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:19:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:20:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:20:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:20:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:20:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:23:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:37:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:37:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[02-Jun-2016 21:38:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 09:28:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:11:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:11:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:11:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:11:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:11:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:11:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:11:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:14:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:14:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:14:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:27:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:27:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:27:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:27:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:27:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:27:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:33:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:33:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:33:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:33:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:34:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:34:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:34:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:34:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:35:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:47:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:47:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[03-Jun-2016 10:47:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/travicom/public_html/goldcoins168/application/controllers/Setting.php on line 711
+[07-Jun-2016 00:09:08 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 169
+[07-Jun-2016 00:09:30 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 169
+[07-Jun-2016 00:10:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 169
+[07-Jun-2016 00:11:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 169
+[07-Jun-2016 00:12:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 169
+[07-Jun-2016 00:15:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_dop::get_v_trf() in /home/travicom/public_html/goldcoins168/application/controllers/u/Transfer.php on line 73
+[07-Jun-2016 00:16:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_dop::get_v_trf() in /home/travicom/public_html/goldcoins168/application/controllers/u/Transfer.php on line 73
+[07-Jun-2016 00:17:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_dop::get_v_trf() in /home/travicom/public_html/goldcoins168/application/controllers/u/Transfer.php on line 73
+[07-Jun-2016 00:27:36 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_dop::get_v_trf() in /home/travicom/public_html/goldcoins168/application/controllers/u/Transfer.php on line 73
+[07-Jun-2016 01:41:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_user::get_table_where() in /home/travicom/public_html/goldcoins168/application/controllers/u/History.php on line 57
+[07-Jun-2016 01:41:12 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_user::get_table_where() in /home/travicom/public_html/goldcoins168/application/controllers/u/History.php on line 57
+[07-Jun-2016 01:41:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_user::get_table_where() in /home/travicom/public_html/goldcoins168/application/controllers/u/History.php on line 57
+[07-Jun-2016 01:43:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 230
+[07-Jun-2016 01:45:44 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 232
+[07-Jun-2016 01:45:47 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 232
+[09-Jun-2016 07:39:40 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/travicom/public_html/goldcoins168/application/models/M_user.php on line 16
+[24-Jun-2016 21:36:43 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/gons8662/public_html/application/models/M_user.php on line 16
+[24-Jun-2016 21:40:56 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/gons8662/public_html/application/models/M_user.php on line 16
+[30-Jun-2016 14:26:28 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/gons8662/public_html/application/models/M_user.php on line 16
+[01-Jul-2016 01:35:06 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:35:10 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:35:11 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:35:12 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:35:13 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:35:17 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:35:26 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:36:09 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:37:07 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:38:00 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:38:03 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[01-Jul-2016 01:38:07 Asia/Jakarta] PHP Fatal error:  Call to a member function all_user_reward() on a non-object in /home/gons8662/public_html/application/views/element/h_dash.php on line 26
+[15-Aug-2016 00:22:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:22:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:23:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:23:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:28:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:29:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:29:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:29:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:29:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:29:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:29:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:30:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:38:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:38:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:38:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:38:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:38:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:39:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:40:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:41:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:41:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:41:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:41:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/gons8662/public_html/application/views/element/h_dash.php on line 52
+[15-Aug-2016 00:42:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/gons8662/public_html/application/views/element/h_dash.php on line 97
+[15-Aug-2016 00:42:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/gons8662/public_html/application/views/element/h_dash.php on line 97
+[15-Aug-2016 16:28:01 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/gons8662/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[02-Sep-2016 18:18:11 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/gons8662/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[05-Sep-2016 08:37:13 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/gons8662/public_html/application/models/M_dop.php on line 65
+[14-Sep-2016 15:25:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/gons8662/public_html/application/controllers/a/Container.php on line 37
+[14-Sep-2016 15:26:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/gons8662/public_html/application/controllers/a/Container.php on line 37
+[07-Oct-2016 16:21:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 16:21:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 16:22:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 16:25:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 19:25:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 19:25:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 19:25:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 19:26:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 19:26:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 20:49:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 20:49:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 20:49:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 20:50:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 20:58:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 21:03:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 22:08:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[07-Oct-2016 22:08:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[08-Oct-2016 16:37:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[08-Oct-2016 16:37:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[08-Oct-2016 16:37:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[08-Oct-2016 16:37:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[10-Oct-2016 06:33:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[10-Oct-2016 06:35:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[10-Oct-2016 06:36:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[10-Oct-2016 06:38:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[10-Oct-2016 06:38:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[10-Oct-2016 06:38:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[10-Oct-2016 13:52:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[10-Oct-2016 13:53:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[11-Oct-2016 05:36:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[11-Oct-2016 19:55:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 11:39:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 11:39:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 11:39:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 11:41:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 13:56:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 13:56:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:27:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:43:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:44:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:55:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:55:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:55:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:55:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:58:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 14:58:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 15:07:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[12-Oct-2016 15:08:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'on_date' (T_STRING) in /home/gons8662/public_html/application/controllers/Setting.php on line 2317
+[14-Oct-2016 19:31:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function roimax() in /home/gons8662/public_html/application/controllers/Login.php on line 112
+[14-Oct-2016 19:32:53 Asia/Jakarta] PHP Fatal error:  Call to undefined function roimax() in /home/gons8662/public_html/application/controllers/Login.php on line 154
+[14-Oct-2016 19:33:51 Asia/Jakarta] PHP Fatal error:  Call to undefined function roimax() in /home/gons8662/public_html/application/controllers/Login.php on line 154
+[08-Dec-2016 15:04:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''login'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gold8com/public_html/application/controllers/Login.php on line 16
+[08-Dec-2016 15:04:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''login'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/gold8com/public_html/application/controllers/Login.php on line 16
